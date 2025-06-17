@@ -63,7 +63,7 @@ A scatter plot shows actual data, and the red regression line indicates model pr
 ## 🧾 Interpretation
 
 * **MAE**: Indicates the average absolute error between predicted and actual values
-* **RMSE**: Emphasizes larger errors due to squaring.
+* **RMSE**: Emphasizes larger errors due to squaring
 * **R² Score**: Shows a moderate linear relationship. Median income alone does not fully explain house prices, indicating the need for a multivariate model for better accuracy.
 
 ---
